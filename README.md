@@ -9,7 +9,8 @@ After 10 years as a Front-end Developer, I have now shifted my focus towards pen
 *   🌍  I'm based in London, UK
 *   🖥️  Learn more about me at [qbessi.com](http://qbessi.com)
 *   ✉️  You can contact me at [hello+github@qbessi.com](mailto:hello+github@qbessi.com)
-*   🧠  I'm learning A+, Network+, Security+ and increasing my HackTheBox ranking
+*   🎓  Microsoft AZ-900, MS-900, SC-900
+*   🧠  Currently preparing for MD-700 and MD-102
 
 ### Skills
 <p align="left">
