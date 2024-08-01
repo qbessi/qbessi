@@ -4,7 +4,7 @@ Hi! My name is Mohammad
 Passionate anything Security, Linux, Networking
 -----------------------------------------------
 
-After 10 years as a Front-end Developer, I have now shifted my focus towards Microsoft Azure, networking, and fundamentals.
+After 10 years as a Front-end Developer, I have now shifted my focus towards Microsoft Azure, cybersecurity, and networking.
 
 *   🌍  I'm based in London, UK
 *   🖥️  Learn more about me at [qbessi.com](http://qbessi.com)
