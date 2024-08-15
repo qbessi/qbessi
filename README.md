@@ -1,10 +1,6 @@
 Hi! My name is Mohammad
 ================================================================================================================================
 
-Passionate anything Security, Linux, Networking
------------------------------------------------
-
-After 10 years as a Frontend Developer, I have now shifted my focus towards Microsoft Azure, Cybersecurity, Penetration Testing, and Networking.
 *   🌍  Based in London, UK
 *   🖥️  Learn more about me at [qbessi.com](http://qbessi.com)
 *   ✉️  You can contact me at [hello+github@qbessi.com](mailto:hello+github@qbessi.com)
