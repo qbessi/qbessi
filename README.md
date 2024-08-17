@@ -4,7 +4,7 @@
 - 🖥️  Learn more about me at [qbessi.com](http://qbessi.com)
 - ✉️  You can contact me at [hello+github@qbessi.com](mailto:hello+github@qbessi.com)
 - 🎓  Microsoft AZ-900, MS-900, SC-900
-- 🧠  Currently preparing for MD-700 and MD-102
+- 🧠  Currently preparing for MD-700
 
 ### Skills
 <p align="left">
