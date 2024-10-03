@@ -6,4 +6,4 @@ With 10 years of experience as a Frontend Developer using *nix systems, I have t
 - 🖥️  Learn more about me at [qbessi.com](http://qbessi.com)
 - ✉️  You can contact me at [hello+github@qbessi.com](mailto:hello+github@qbessi.com)
 - 🎓  Microsoft AZ-900, MS-900, SC-900
-- 🧠  Currently working towards AZ-104 and PowerShell Automation
+- 🧠  Currently working towards AZ-104
