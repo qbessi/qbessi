@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/v2/D4E16AQHJ1xhweZgd9A/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1721566992008?e=1729123200&v=beta&t=WK7R1Uyz2yjdCfBe3eL4FWcjEmP1Wdxlq_cfkhQmDqc" />
+<img src="banner.jpg" />
 
 ### 👾 Seeking New Roles 👾
 
