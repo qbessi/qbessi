@@ -1,3 +1,4 @@
+<img src="banner.jpg" />
 With experience as a Frontend Developer and four years as a Technical Support Engineer, I have transitioned to focus on IT infrastructure and cloud technologies. I am actively working on learning Bash, Python, and Linux administration.
 
 - Based in London, UK
