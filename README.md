@@ -3,4 +3,4 @@ With experience as a Frontend Developer and four years as a Technical Support En
 - Based in London, UK
 - Learn more about me at [qbessi.com](http://qbessi.com)
 - You can contact me at [hello+github@qbessi.com](mailto:hello+github@qbessi.com)
-- Microsoft AZ-900, MS-900, SC-900, MD-102 (Ongoing) MS-102 (Ongoing)
+- Microsoft AZ-900, MS-900, SC-900, RHCSA (Ongoing)
